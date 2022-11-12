@@ -40,3 +40,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+# API Planning
+
+- Food (food items and their details)
+- Restaurant (restaurant and their details)
+- Menu (Menu and its details)
+- Order (Order and its details)
+- Image (Storing all the images related to the project)
+- Review (Storing all the list of reviews)
+- User (User related details, username, email, password)
+
